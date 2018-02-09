@@ -1,0 +1,17 @@
+{
+  "name": "paytrail-test",
+  "version": "0.0.1",
+  "description": "Test project for paytrail merchant/payments API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Olli-Pekka Oras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
